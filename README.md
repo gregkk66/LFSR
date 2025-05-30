@@ -1,1 +1,1 @@
-LFSR decryption with fixed seed.
+LFSR decryption given polynomial.
